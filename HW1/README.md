@@ -1,3 +1,3 @@
 Hw1 : GANs.
 
-List of files in this folder with all experiments
+Contains all jupyter notebooks and individual folders for each sub experiment and the images generated from the experiments
